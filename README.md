@@ -1,2 +1,2 @@
 # python-server
-A Server written in Python with out any api
+A Server written in Python without any api
